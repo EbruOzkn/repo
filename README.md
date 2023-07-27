@@ -1,7 +1,5 @@
 # Demo 
 
 
-
-
 Some description.
 
